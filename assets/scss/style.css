@@ -94,7 +94,7 @@ html {
 }
 
 header {
-  background-color: #17161d;
+  background-color: #3b7a57;
   z-index: 999;
   width: 100%;
   position: fixed;
@@ -138,8 +138,8 @@ header .larguraMaxContainer nav .nav-list li {
 }
 
 header .larguraMaxContainer nav .nav-list li a {
-  color: #c9c9c9;
-  font-size: 2rem;
+  color: whitesmoke;
+  font-size: 30px;
   position: relative;
   font-family: "Circular Std Book";
 }
@@ -157,10 +157,10 @@ header .larguraMaxContainer nav .nav-list li a::after {
     linear,
     right top,
     left top,
-    from(#6610f2),
+    from(#9e94ad),
     to(#17161d)
   );
-  background: linear-gradient(270deg, #6610f2 0%, #17161d 100%);
+  background: linear-gradient(270deg, #a6a3ac 0%, #17161d 100%);
   -webkit-transform-origin: bottom right;
   transform-origin: bottom right;
   -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.86, 0, 0.07, 1);
@@ -484,7 +484,7 @@ main #apresentacaoPortfolio .mouse {
 }
 
 main #sobre {
-  background-color: #17161d;
+  background-color: #b35900;
 }
 
 main #sobre .larguraMaxContainer {
@@ -677,7 +677,7 @@ main #sobre .larguraMaxContainer #sobreTexto p:nth-child(2) {
 main #projetos {
   padding: 100px 50px;
   text-align: center;
-  background-color: #131219;
+  background-color: #c5c1aa;
 }
 
 @media screen and (max-width: 1024px) {
@@ -688,14 +688,15 @@ main #projetos {
 
 main #projetos .larguraMaxContainer h2 {
   padding-bottom: 20px;
-  color: #fefbfb;
-  font-size: 3.2rem;
+  color: whitesmoke;
+  font-size: 30px;
   font-weight: 500;
+  font-family: "Mochiy Pop P One", sans-serif;
 }
 
 main #projetos .larguraMaxContainer h2 span {
-  color: #6610f2;
-  font-size: 6rem;
+  color: whitesmoke;
+  font-size: 50px;
 }
 
 main #projetos .larguraMaxContainer div {
@@ -718,11 +719,11 @@ main #projetos .larguraMaxContainer div > article {
   flex-grow: 1;
   -ms-flex-preferred-size: calc(33% - 20px);
   flex-basis: calc(33% - 20px);
-  background-color: #17161d;
+  background-color: #3b7a57;
   padding: 30px 25px;
   margin: 10px;
   border-radius: 5px;
-  border: 2px solid #17161d;
+  border: 10px solid #17161d;
 }
 
 main #projetos .larguraMaxContainer div > article:hover {
@@ -818,7 +819,7 @@ main #projetos .larguraMaxContainer div > article > span button {
 
 main #projetos .larguraMaxContainer div > article > span button:hover {
   cursor: pointer;
-  background-color: #5429cf;
+  background-color: #cf5e29;
 }
 
 main #projetos .larguraMaxContainer div > article > span button .iconify {
@@ -895,7 +896,7 @@ main #servicos {
   background-color: #17161d;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   main #servicos {
     padding: 50px 20px;
   }
@@ -981,7 +982,7 @@ main #servicos .larguraMaxContainer div article p {
   color: #c9c9c9;
   font-family: "Circular Std Book";
   font-size: 1.6rem;
-}
+} */
 
 main #conhecimentos {
   padding: 100px 75px;
