@@ -1,4 +1,4 @@
-//Menu
+//MENU
 class MobileNavbar {
   constructor(mobileMenu, navList, navLinks) {
     this.mobileMenu = document.querySelector(mobileMenu);
@@ -42,7 +42,7 @@ const mobileNavbar = new MobileNavbar(
 );
 mobileNavbar.init();
 
-//Maquina de escrever
+//MAQUINA DE ESCRIBIR
 function typeWrite(elemento) {
   const textoArray = elemento.innerHTML.split("");
   elemento.innerHTML = " ";
@@ -52,29 +52,29 @@ function typeWrite(elemento) {
     }, 100 * i);
   });
 }
-const titulo = document.querySelector(".maquina-escrever");
+const titulo = document.querySelector(".maquinaEscribir");
 typeWrite(titulo);
 
-//Revelar animação
+//REVELAR ANIMACION
 const sr = ScrollReveal({
   origin: "top",
   distance: "50px",
   duration: 2000,
 });
 
-//Home delay
+//NOMBRE
 sr.reveal(".button", { delay: 200 });
 sr.reveal(".linguagensProjeto", { delay: 400 });
-sr.reveal(".imagem-espaco-delay", { delay: 200 });
+sr.reveal(".image-space-delay", { delay: 200 });
 sr.reveal(".imagem-iuri-delay", { delay: 600 });
 sr.reveal(".scroll-delay", { delay: 1000 });
-//Sobre mim delay
+//SOBRE MI
 sr.reveal(".imagem-delay", {});
 sr.reveal(".titulo-delay", { delay: 200 });
-sr.reveal(".descricao-delay", { delay: 400 });
+sr.reveal(".description_delay", { delay: 400 });
 sr.reveal(".cards-interval", { interval: 400 });
 
-//Animação conhecimentos
+//ANIMACION CONOCIMIENTOS
 var texto1 = document.querySelector(".mudarTextoDescricao");
 
 document.querySelector(".html").addEventListener("mouseover", function () {
