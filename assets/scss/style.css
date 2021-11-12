@@ -641,8 +641,7 @@ main #projetos .larguraMaxContainer div > article p {
 }
 
 main #projetos .larguraMaxContainer div > article > span {
-  display: -webkit-box;
-  display: -ms-flexbox;
+
   display: flex;
 
   align-items: center;
