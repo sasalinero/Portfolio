@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy</h1> 
+<h1 align="center">Hola 👋, Soy Samantha</h1> 
 <h2 align="center">Junior Frontend</h2>
 
  Especializada en tecnologías como: **HTML, CSS3, Javascript, y React.** 
@@ -18,6 +18,8 @@
 - :moneybag: [¿Quieres ganar dinero?](https://sasalinero.github.io/II_Maquina_Tragaperras/)
 
 - :hearts: [Portfolio](https://sasalinero.github.io/PortfolioSamantha/)
+
+- :space_invader: [Ricky and Morty](https://sasalinero.github.io/Ricky-and-Morty-en-REACT/#/)
 
 
 
