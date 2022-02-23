@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy  [ Samantha ](https://sasalinero.github.io/PortfolioSamantha/)</h1>
+<h1 align="center">Hola 👋, Soy</h1> 
 <h2 align="center">Junior Frontend</h2>
 
  Especializada en tecnologías como: **HTML, CSS3, Javascript, y React.** 
@@ -10,16 +10,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
 
-<h3 align="left">🌱 Estos son mis últimos proyectos🌱 :</h3>
+<h3 align="left">🌱 Estos son mis últimos proyectos🌱 </h3>
 
 
 - :snail: [¡Cuidado con Grogu!](https://sasalinero.github.io/Juego-Mandalorian/)
 
 - :moneybag: [¿Quieres ganar dinero?](https://sasalinero.github.io/II_Maquina_Tragaperras/)
 
-<h3 align="left">📫Cómo encontrarme:📫</h3>
+- :hearts: [Portfolio](https://sasalinero.github.io/PortfolioSamantha/)
 
+
+
+<h3 align="left">📫Cómo encontrarme📫</h3>
 <p align="left">
+ 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samantha-salinero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samantha-salinero/" height="30" width="40" /></a>
 
 </p>
