@@ -8,7 +8,7 @@ class MobileNavbar {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  animateLinks() {
+  animacion_links() {
     this.navLinks.forEach((link, index) => {
       link.style.animation
         ? (link.style.animation = "")
@@ -21,7 +21,7 @@ class MobileNavbar {
   handleClick() {
     this.navList.classList.toggle(this.activeClass);
     this.mobileMenu.classList.toggle(this.activeClass);
-    this.animateLinks();
+    this.animacion_links();
   }
 
   addClickEvent() {
@@ -62,13 +62,6 @@ const sr = ScrollReveal({
   duration: 2000,
 });
 
-//NOMBRE
-sr.reveal(".button", { delay: 200 });
-sr.reveal(".linguagensProjeto", { delay: 400 });
-sr.reveal(".image-space-delay", { delay: 200 });
-sr.reveal(".imagem-iuri-delay", { delay: 600 });
-sr.reveal(".scroll-delay", { delay: 1000 });
-//SOBRE MI
 sr.reveal(".imagem-delay", {});
 sr.reveal(".titulo-delay", { delay: 200 });
 sr.reveal(".description_delay", { delay: 400 });
