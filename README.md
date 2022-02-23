@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, Soy [Samantha](https://sasalinero.github.io/PortfolioSamantha/)</h1>
-<h3 align="center">Junior Frontend</h3>
+<h1 align="center">Hola 👋, Soy  [ Samantha ](https://sasalinero.github.io/PortfolioSamantha/)</h1>
+<h2 align="center">Junior Frontend</h2>
 
- Especializada en tecnologías como: HTML, CSS3, Javascript, y React. 
+ Especializada en tecnologías como: **HTML, CSS3, Javascript, y React.** 
  
-  Además tengo conocimientos básicos en Node JS, Express,SQL,y APIs. Estos conocimientos los he obtenido en el Bootcamp de Adalab el cual terminé recientemente.
+  Además tengo conocimientos básicos en **Node JS, Express,SQL,y APIs.** Estos conocimientos los he obtenido en el Bootcamp de Adalab el cual terminé recientemente.
   
-  Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web**
+  Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
 
