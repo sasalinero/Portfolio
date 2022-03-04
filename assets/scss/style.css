@@ -452,7 +452,37 @@ main #sobre .larguraMaxContainer #sobreFoto #figura4 {
   width: 75px;
   height: 75px;
 }
+main #sobre .larguraMaxContainer #sobreFoto #figura5 {
+  /* position: relative; */
+  top: 0px;
+  right: 450px;
+  background-color: #131219;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+}
+main #sobre .larguraMaxContainer #sobreFoto #figura6 {
+  /* position: relative; */
+  top: 0px;
+  right: 450px;
+  background-color: #131219;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  margin-left: 60px;
+  
 
+}
+main #sobre .larguraMaxContainer #sobreFoto #figura7 {
+  /* position: relative; */
+  top: 0px;
+  right: 450px;
+  background-color: #131219;
+  border-radius: 10px;
+  width: 75px;
+  height: 75px;
+  margin-left: 100px;
+}
 main #sobre .larguraMaxContainer #sobreFoto .icon1 {
   animation: icon-move 3s ease 2.9s infinite alternate;
 }
@@ -466,6 +496,18 @@ main #sobre .larguraMaxContainer #sobreFoto .icon3 {
 }
 main #sobre .larguraMaxContainer #sobreFoto .icon4 {
   animation: icon-move 3s ease 2.6s infinite alternate;
+}
+main #sobre .larguraMaxContainer #sobreFoto .icon5 {
+  animation: icon-move 2s ease 0.6s infinite alternate;
+ 
+}
+main #sobre .larguraMaxContainer #sobreFoto .icon6 {
+  animation: icon-move 3s ease 2.9s infinite alternate;
+  
+}
+main #sobre .larguraMaxContainer #sobreFoto .icon7 {
+  animation: icon-move 3s ease 2.9s infinite alternate;
+  
 }
 
 @keyframes icon-move {
