@@ -4,13 +4,17 @@
 
 <h2 align="center">Junior Frontend</h2>
 
- Especializada en tecnologías como: **HTML, CSS3, Javascript, y React.** 
- 
-  Además tengo conocimientos básicos en **Node JS, Express,SQL,y APIs.** Estos conocimientos los he obtenido en el Bootcamp de Adalab el cual terminé recientemente.
-  
-  Y ahora en 2022 acabaré mis estudios :books:**FP de Desarrollo Web** Donde estoy ampliando mis conocimientos con **C#, Java, PHP**
-  
-  Ahora estoy trabajando :construction: :construction: :bar_chart:**MY_TRELLO_LIST**:bar_chart: :construction::construction: donde estoy implementando ![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)&nbsp;
+Hace unos meses terminé mis estudios de **Frontend** en el Bootcamp de Adalab donde aprendí (**HTML, CSS3, Javascript, y React.,Node JS, Express,SQL,y APIs.**).
+
+
+
+Actualmente estoy haciendo mis prácticas del **FP de DAW en Hiberus** con un programa de especialización en **Desarrollo Frontend** donde estoy aprendiendo y afianzando conceptos sobre(**HTML5, CSS, JAVASCRIPT AVANZADO, ES6, TYPESCRIPT, BOOTSTRAP, ANGULAR8, IONIC, REACT.JS, VUE.JS**) que acabaré en Junio.
+
+
+
+
+   
+ Ahora estoy trabajando en :construction: :construction: :bar_chart:**MY_TRELLO_LIST**:bar_chart: :construction::construction: donde estoy implementando ![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)&nbsp;
 ![REACT CONTEXT API](https://img.shields.io/badge/-REACT%20CONTEXT%20API-black?style=flat&logo=REACT) &nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasalinero&label=Profile%20views&color=0e75b6&style=flat" alt="sasalinero" /> </p>
@@ -18,6 +22,7 @@
 
 <h3 align="left">🌱 Estos son mis últimos proyectos finalizados🌱 </h3>
 
+- :rocket: **Astronautas** Práctica de POO con Typescript y Node.js.
 
 - :collision: [Practica_MUI_CONTEXT_API](https://sasalinero.github.io/Practica_Material_UI/)
 
@@ -33,14 +38,22 @@
 
 
 ### ⚡️ &nbsp;Tecnologías
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp; 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)&nbsp; 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=plastic&logo=sass&logoColor=white)&nbsp; 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)&nbsp; 
+
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp; 
+![Vue](https://img.shields.io/badge/-Vue-66666?style=flat&logo=vue)&nbsp; 
+![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)&nbsp; 
+![REACT CONTEXT API](https://img.shields.io/badge/-REACT%20CONTEXT%20API-black?style=flat&logo=REACT)&nbsp; 
+![Ionic](https://img.shields.io/badge/-Ionic-68915?style=flat&logo=ionic)&nbsp; 
+![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=MUI)&nbsp; 
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)&nbsp; 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)&nbsp; 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)&nbsp; 
 
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
