@@ -8,7 +8,7 @@ Hace unos meses terminé mis estudios de **Frontend** en el Bootcamp de Adalab d
 
 
 
-Actualmente estoy haciendo mis prácticas del **FP de DAW en Hiberus** con un programa de especialización en **Desarrollo Frontend** donde estoy aprendiendo y afianzando conceptos sobre(**HTML5, CSS, JAVASCRIPT AVANZADO, ES6, TYPESCRIPT, BOOTSTRAP, ANGULAR8, IONIC, REACT.JS, VUE.JS**) que acabaré en Junio.
+Actualmente estoy haciendo mis prácticas del **FP de DAW en Hiberus** con un programa de especialización en **Desarrollo Frontend** donde estoy aprendiendo y afianzando conceptos sobre(**HTML5, CSS, JAVASCRIPT AVANZADO, ES6, TYPESCRIPT, BOOTSTRAP, ANGULAR 13, IONIC, REACT.JS, VUE.JS**) que acabaré en Junio.
 
 
 
